@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.hero{
+	dusplay:flex;
+	justify-content:center;
+	align-item:center;
+}
+.section{
+	margin-left:40px;
+	text-align:center;
+	box-sizing:border-box;
+}
+button{
+	background-color:red;
+	color:white;
+}
